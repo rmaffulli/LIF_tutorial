@@ -1,1 +1,1 @@
-# LIF_tutorial
+# Leaky Integrate and Fire tutorial
