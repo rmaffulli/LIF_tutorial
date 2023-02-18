@@ -1,4 +1,4 @@
-# Neuronal networks tutorials (student version)
+# Neuronal networks tutorials (educator version)
 This repository contains the educator version (including solutions) of two tutorials explaining Leaky Integrate and Fire neural models, conductance based synapses and neuronal networks.
 
 The repository also includes slides to introduce the Leaky Integrate and Fire model, and in general the issue of modelling point neurons, and discuss its limitations.
